@@ -6,12 +6,12 @@ V. Ramadoss
 </i>
 </div>
 
-<p align="center">
 
-[![Watch the video](//img.youtube.com/vi/PvyLslABEco&ab/0.jpg)](https://www.youtube.com/watch?v=PvyLslABEco&ab_channel=VishalRamadoss)
-
-
-</p>
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=PvyLslABEco&ab_channel=VishalRamadoss">
+         <img src="https://img.youtube.com/vi/PvyLslABEco&ab/0.jpg" style="width:100%;">
+      </a>
+</div>
 
 
 ### Acknowledgements
