@@ -9,7 +9,7 @@ V. Ramadoss
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=PvyLslABEco&ab_channel=VishalRamadoss">
-         <img src="https://i3.ytimg.com/vi/PvyLslABEco?si=s1s3J4FWWjkBTlrc/maxresdefault.jpg" alt="Watch the video"  style="width:100%;">
+         <img src="https://i3.ytimg.com/vi/PvyLslABEco/maxresdefault.jpg" alt="Watch the video"  style="width:100%;">
       </a>
 </div>
 
