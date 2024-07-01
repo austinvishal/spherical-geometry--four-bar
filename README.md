@@ -13,6 +13,12 @@ V. Ramadoss
       </a>
 </div>
 
+<p align="center">
+
+[![Watch more trajectory videos](https://raw.githubusercontent.com/austinvishal/spherical-geometry--four-bar/main/assets/thumbnail.png)](https://raw.githubusercontent.com/austinvishal/spherical-geometry--four-bar/main/videos/Crank–Relcrank–Relpirocker–Zerockermain-1.mp4)
+
+
+</p>
 
 ### Acknowledgements
 
