@@ -2,7 +2,7 @@
 Mechanism mockup of four bar linkage on spherical geometry : 4R Spherical linkage</h1>
 <div align="center">
 <i>
-V. Ramadoss
+V. Ramadoss : Visit my Youtube channel by clicking the video preview below
 </i>
 </div>
 
