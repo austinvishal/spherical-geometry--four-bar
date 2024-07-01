@@ -15,7 +15,7 @@ V. Ramadoss
 
 <p align="center">
 
-[![Watch more trajectory videos](https://raw.githubusercontent.com/austinvishal/spherical-geometry--four-bar/main/assets/thumbnail.png)](https://raw.githubusercontent.com/austinvishal/spherical-geometry--four-bar/main/videos/Crank–Relcrank–Relpirocker–Zerockermain-1.mp4)
+[![Watch more trajectory videos](https://raw.githubusercontent.com/austinvishal/spherical-geometry--four-bar/main/assets/thumbnail.png)](https://github.com/austinvishal/spherical-geometry--four-bar/blob/main/videos/Crank%E2%80%93Relcrank%E2%80%93Relpirocker%E2%80%93Zerockermain-1.mp4)
 
 
 </p>
