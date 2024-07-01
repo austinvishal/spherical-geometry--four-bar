@@ -8,7 +8,7 @@ V. Ramadoss
 
 <p align="center">
 
-[![Watch the video](https://img.youtube.com/vi/PvyLslABEco&ab_/1.jpg)](https://www.youtube.com/watch?v=PvyLslABEco&ab_channel=VishalRamadoss)
+[![Watch the video](https://img.youtube.com/vi/PvyLslABEco&ab_/0.jpg)](https://www.youtube.com/watch?v=PvyLslABEco&ab_channel=VishalRamadoss)
 
 
 </p>
